@@ -15,4 +15,4 @@ que hace que sea más fácil trabajar en equipo, probar cosas nuevas y arreglar 
 
  ¿Qué nombre pondría a la rama al momento de crearla?
  El mismo nombre SEM-005 es una buena práctica nombrar la rama de manera que se relacione con el ticket
-  para que sea fácil de identificar
+  para que sea fácil de identificar.
