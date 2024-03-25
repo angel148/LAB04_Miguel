@@ -1,0 +1,3 @@
+//el comando "npm init -y" genera el package. json con valores por 
+defecto pero es más rápido editar en VSCode el 
+resultado de éste que contestar a todas las preguntas por orden.

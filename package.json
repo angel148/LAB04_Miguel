@@ -1,0 +1,19 @@
+{
+  "name": "lab4",
+  "version": "1.0.0",
+  "description": "lab4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angel148/LAB04_Miguel.git"
+  },
+  "author": "Angel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angel148/LAB04_Miguel/issues"
+  },
+  "homepage": "https://github.com/angel148/LAB04_Miguel#readme"
+}
